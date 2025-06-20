@@ -7,6 +7,8 @@ PocketPages is a modern, offline-first, and feature-rich note-taking application
 <img src="https://github.com/user-attachments/assets/29a17643-1518-4cdf-9330-a0cbb557e9ed" alt="bin" width="270" height="603">
 <img src="https://github.com/user-attachments/assets/54652b5b-0493-42bb-9854-6c5df2153dc8" alt="settings" width="270" height="603">
 
+<video src="https://user-images.githubusercontent.com/your-uploaded-video-link.mp4" controls width="100%"></video>
+
 
 ## ✨ Features
 
